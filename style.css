@@ -1,0 +1,17 @@
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: rgb(41, 41, 41);
+}
+.card{
+    background-color: #2b2b2b;
+    color: white;
+    border: 1px solid #444;
+    transition: .3s;
+}
+
+.card:hover{
+    transform: translateY(-8px);
+    border-color: #e10600;
+    box-shadow: 0 10px 25px rgba(225,6,0,.35);
+}
